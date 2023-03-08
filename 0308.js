@@ -11,6 +11,7 @@ for (let i = 0 ; i < array1.length ; i++ ){
     console.log(array1[i])
 }
 
+
 let animal=['dog', 'cat', 'pig' ]
 let lengthA = animal.push('fish')
 console.log(lengthA)
@@ -19,3 +20,4 @@ console.log(animal)
 let removedItem = animal.pop()
 console.log(removedItem)
 console.log(animal)
+
